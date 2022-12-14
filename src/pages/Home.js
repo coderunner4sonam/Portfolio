@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../components/Header";
-
+import ScrollToTop from "react-scroll-to-top";
 import "../styles/style.css";
 
 const Home = () => {
   return (
     <>
-    
+    <ScrollToTop smooth color="#6f00ff" className="scollpagetotop"/>
       <div class="container-fluid p-0">
         
         <Header />

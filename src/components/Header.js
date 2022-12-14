@@ -1,26 +1,31 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import pic from './pic.jpg';
+import pic from './pic.png';
 // teal
 const Header = () => {
   return (
     <>
       <nav
-        class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
+        className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <Link class="navbar-brand js-scroll-trigger" to="/">
-          <span class="d-block d-lg-none">Sonam Murarkar</span>
-          <span class="d-none d-lg-block">
+        <Link className="navbar-brand js-scroll-trigger" to="/">
+          <span className="d-block d-lg-none">Sonam Murarkar</span>
+
+      
             <img
-              class="img-fluid img-profile rounded-circle mx-auto mb-2"
-              src={pic}
+              // className="img-fluid img-profile rounded-circle mx-auto mb-2"
+               className="asset"
+                src={pic}
               alt="..."
-            /> 
-          </span>
+            />
+      
+            
+
+
         </Link>
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarResponsive"
@@ -28,37 +33,37 @@ const Header = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/">
+        <div className="collapse navbar-collapse" id="navbarResponsive">
+          <ul className="navbar-nav">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/">
                 About
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/experience">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/experience">
                 Experience
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/education">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/education">
                 Education
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/skills">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/skills">
                 Skills
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/interests">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/interests">
                 Interests
               </Link>
             </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/awards">
+            <li className="nav-item">
+              <Link className="nav-link js-scroll-trigger" to="/awards">
                 Awards
               </Link>
             </li>
