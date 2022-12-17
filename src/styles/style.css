@@ -11415,12 +11415,6 @@ p.lead {
   font-size: 3rem;
 }
 
-/* ***************************************************** */
-.scollpagetotop{
-  border-radius: 1px solid red;
-}
-
-/* ******************************************************** */
 section.resume-section {
   display: flex;
   align-items: center;

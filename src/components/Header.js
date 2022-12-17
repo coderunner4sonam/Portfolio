@@ -12,17 +12,12 @@ const Header = () => {
         <Link className="navbar-brand js-scroll-trigger" to="/">
           <span className="d-block d-lg-none">Sonam Murarkar</span>
 
-      
             <img
-              // className="img-fluid img-profile rounded-circle mx-auto mb-2"
                className="asset"
                 src={pic}
               alt="..."
             />
       
-            
-
-
         </Link>
         <button
           className="navbar-toggler"

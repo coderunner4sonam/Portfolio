@@ -1,9 +1,15 @@
 import React from "react";
 import Header from "../components/Header";
+import ScrollToTop from "react-scroll-to-top";
 
 const Experience = () => {
   return (
     <>
+     <ScrollToTop
+        smooth
+        color="teal"
+        style={{ height: "50px", width: "50px", borderRadius: "50%" }}
+      />
       <div class="container-fluid p-0">
         <Header />
       
@@ -12,70 +18,78 @@ const Experience = () => {
         <section class="resume-section" id="experience">
           <div class="resume-section-content">
             <h2 class="mb-5">Experience</h2>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Senior Web Developer</h3>
-                <div class="subheading mb-3">Intelitec Solutions</div>
-                <p>
-                  Bring to the table win-win survival strategies to ensure
-                  proactive domination. At the end of the day, going forward, a
-                  new normal that has evolved from generation X is on the runway
-                  heading towards a streamlined cloud solution. User generated
-                  content in real-time will have multiple touchpoints for
-                  offshoring.
-                </p>
-              </div>
-              <div class="flex-shrink-0">
-                <span class="text-primary">March 2013 - Present</span>
-              </div>
-            </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Web Developer</h3>
-                <div class="subheading mb-3">Intelitec Solutions</div>
-                <p>
-                  Capitalize on low hanging fruit to identify a ballpark value
-                  added activity to beta test. Override the digital divide with
-                  additional clickthroughs from DevOps. Nanotechnology immersion
-                  along the information highway will close the loop on focusing
-                  solely on the bottom line.
-                </p>
-              </div>
-              <div class="flex-shrink-0">
-                <span class="text-primary">December 2011 - March 2013</span>
-              </div>
-            </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Junior Web Designer</h3>
-                <div class="subheading mb-3">Shout! Media Productions</div>
-                <p>
-                  Podcasting operational change management inside of workflows
-                  to establish a framework. Taking seamless key performance
-                  indicators offline to maximise the long tail. Keeping your eye
-                  on the ball while performing a deep dive on the start-up
-                  mentality to derive convergence on cross-platform integration.
-                </p>
-              </div>
-              <div class="flex-shrink-0">
-                <span class="text-primary">July 2010 - December 2011</span>
-              </div>
-            </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Web Design Intern</h3>
-                <div class="subheading mb-3">Shout! Media Productions</div>
+                <h3 class="mb-0">NEWTON SCHOOL</h3>
+                <div class="subheading mb-3">
+                  Full Stack | MERN Stack | Bootcamp Training
+                </div>
                 <p>
-                  Collaboratively administrate empowered markets via
-                  plug-and-play networks. Dynamically procrastinate B2C users
-                  after installed base benefits. Dramatically visualize customer
-                  directed convergence without revolutionary ROI.
+                  Full Stack Development along with Data Structure , Algorithm
+                  and problem solving. Technical Tech Stack Learnt : HTML5 , CSS
+                  ,JavaScript , React.js ,Node.js,Github
+                </p>
+                <h4 class="subheading mb-3">Projects</h4>
+
+                <p>
+                  <div class="subheading mb-3">
+                    1) School Management Project
+                  </div>
+                  project is based on crud ,searching,showing loading page
+                  before getting data from fake JSON server, routing, Material ui library for react, responsive
+                  functionality.
+                  <p>
+                    ● It allows school to search for any of their student
+                    details.
+                  </p>
+                  <p>
+                    ● It allows school complete control of the different
+                    activities that includes class, marks, details of student,
+                    administration and more.
+                  </p>
+                  <p>
+                    ● It allows schools to add, delete, view, and edit data to a
+                    fake JSON server.
+                  </p>
+                  <p> ● It allows showing the total number of students.</p>
+                </p>
+                <p>
+                  <div class="subheading mb-3">2) Recipe Tadka Project</div>
+                  project is based on get data from Apis - (axios), pagination,
+                  searching, routing,Material ui library for react, responsive functionality.
+                  <p> ● Users can search for any of their favorite recipes.</p>
+                  <p>● Users will get different varieties of recipes</p>
+                </p>
+                <p>
+                  <div class="subheading mb-3">3) Portfolio Project</div>
+                  project is based on routing, scroll to top button, bootstrap, responsive functionality.
+                  <p>● to show Eduction, Experience, Skills, Interest, Awards</p>
+                  <p>● to get clear idea about projects details</p>
+                  <p>● Smooth scroll to top button</p>  
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">September 2008 - June 2010</span>
+                <span class="text-primary">April 2022 - Present</span>
               </div>
             </div>
+            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div class="flex-grow-1">
+                <h3 class="mb-0">Customer Support Executive</h3>
+                <div class="subheading mb-3">Infosys Limited Pune</div>
+                <p>
+                  ● used to give Tech-support In the “Broadband Process” for UK through
+                  calls, chats, and emails so that customers are happy by
+                  solving their queries.
+                </p>
+                <p>● used to handle client meeting</p>
+                <p>
+                  ● used to give training to new trainee.
+                </p>
+              </div>
+              <div class="flex-shrink-0">
+                <span class="text-primary">May 2018 - March 2022</span>
+              </div>
+            </div> 
           </div>
         </section>
         <hr class="m-0" />

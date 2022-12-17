@@ -6,6 +6,7 @@ const Interest = () => {
     <>
       <div class="container-fluid p-0">
         <Header />
+       
         <section class="resume-section" id="interests">
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
@@ -13,7 +14,7 @@ const Interest = () => {
               Apart from being a web developer, I enjoy most of my time being
               outdoors. In the winter, I am an avid skier and novice ice
               climber. During the warmer months here in Colorado, I enjoy
-              mountain biking, free climbing, and kayaking.
+              free climbing, and kayaking.
             </p>
             <p class="mb-0">
               When forced indoors, I follow a number of sci-fi and fantasy genre
