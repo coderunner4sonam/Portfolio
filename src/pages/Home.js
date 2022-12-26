@@ -17,14 +17,14 @@ const Home = () => {
           <div class="resume-section-content">
             <h1 class="mb-0">
               Sonam
-              <span class="text-primary">Murarkar</span>
+              <span class="text-primary"> Murarkar</span>
             </h1>
             <div class="subheading mb-5">
               3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
               <a href="mailto:name@email.com">name@email.com</a>
             </div>
             <p class="lead mb-5">
-              Seeking a position to apply the knowledge that I have learned,
+              Seeking A position to apply the knowledge that I have learned,
               explore abilities and skills towards my duties, and excel in Web
               Development (MERN stack Developer or Frontend Developer) field.
             </p>

@@ -33,39 +33,35 @@ const Experience = () => {
 
                 <p>
                   <div class="subheading mb-3">
-                    1) School Management Project
+                    1) School Management System - Project
                   </div>
-                  project is based on crud ,searching,showing loading page
-                  before getting data from fake JSON server, routing, Material ui library for react, responsive
-                  functionality.
-                  <p>
-                    ● It allows school to search for any of their student
-                    details.
-                  </p>
-                  <p>
-                    ● It allows school complete control of the different
-                    activities that includes class, marks, details of student,
-                    administration and more.
-                  </p>
-                  <p>
-                    ● It allows schools to add, delete, view, and edit data to a
-                    fake JSON server.
-                  </p>
-                  <p> ● It allows showing the total number of students.</p>
+                  Overview: School Management System website is an asset to track & control student details.
+                  <p>Features:-</p>
+                  <p> ● It allows school to search for any of their student details.</p> 
+                  <p> ● User can edit any of their student details - first name, last name, grades, email Id, phone number, and student class. </p>
+                  <p> ● User can add any of their student data. </p>    
+                  <p> ●  Implemented dynamic toggle sidebar for managing all the pages.</p>
+                  <p> ● Fully dynamic search functionality for searching any student details & assets.</p>
+                  <p> ● User can see total number of students separately.</p>
+                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
+                  <p> ● Page Not Found - page will show if the user enters the wrong input in url.</p>
+                  <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
                 </p>
                 <p>
-                  <div class="subheading mb-3">2) Recipe Tadka Project</div>
-                  project is based on get data from Apis - (axios), pagination,
-                  searching, routing,Material ui library for react, responsive functionality.
-                  <p> ● Users can search for any of their favorite recipes.</p>
-                  <p>● Users will get different varieties of recipes</p>
-                </p>
-                <p>
-                  <div class="subheading mb-3">3) Portfolio Project</div>
-                  project is based on routing, scroll to top button, bootstrap, responsive functionality.
-                  <p>● to show Eduction, Experience, Skills, Interest, Awards</p>
-                  <p>● to get clear idea about projects details</p>
-                  <p>● Smooth scroll to top button</p>  
+                  <div class="subheading mb-3">
+                  2) Recipe Tadka Project
+                  </div>
+                  Overview: Recipe Tadka Project is an asset to searching for user-favorite recipes.
+                  <p>Features:-</p>
+                  <p> ● Fully dynamic search functionality for searching any recipe & assets.</p> 
+                  <p> ● Users will get different varieties of recipes. </p>
+                  <p> ● Implemented dynamic Carousal feature for all the current trending recipes.</p>    
+                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
+                  <p> ● User search for any of their student details by their name.</p>
+                  <p> ● Worked on various Api for dynamically fetch data for the web page.</p>
+                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
+                  <p> ● Page Not Found - page will show if the user enters the wrong input in url.</p>
+                  <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
                 </p>
               </div>
               <div class="flex-shrink-0">
