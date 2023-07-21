@@ -32,9 +32,13 @@ const Experience = () => {
                 <h4 class="subheading mb-3">Projects</h4>
 
                 <p>
-                  <div class="subheading mb-3">
-                    1) School Management System - Project
-                  </div>
+                <div class="subheading mb-3">
+                          1) School Management System - Project   
+                </div>
+                <p>
+                            <a class="social-icon" href="https://deluxe-biscuit-cbc743.netlify.app/">(link)</a>
+                            <a class="social-icon" href="https://github.com/coderunner4sonam/SchoolManagement">(Github repository)</a>
+                </p>
                   Overview: School Management System website is an asset to track & control student details.
                   <p>Features:-</p>
                   <p> ● It allows school to search for any of their student details.</p> 
@@ -48,9 +52,13 @@ const Experience = () => {
                   <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
                 </p>
                 <p>
-                  <div class="subheading mb-3">
+                <div class="subheading mb-3">
                   2) Recipe Tadka Project
                   </div>
+                  <p>
+                            <a class="social-icon" href="https://creative-mousse-25ea01.netlify.app/">(link)</a>
+                            <a class="social-icon" href="https://github.com/coderunner4sonam/RecipeTadka">(Github repository)</a>
+                </p>
                   Overview: Recipe Tadka Project is an asset to searching for user-favorite recipes.
                   <p>Features:-</p>
                   <p> ● Fully dynamic search functionality for searching any recipe & assets.</p> 
@@ -65,7 +73,7 @@ const Experience = () => {
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">April 2022 - Present</span>
+                <span class="text-primary">April 2022 - January 2023  </span>
               </div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">

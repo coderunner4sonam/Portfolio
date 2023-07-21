@@ -20,26 +20,24 @@ const Home = () => {
               <span class="text-primary"> Murarkar</span>
             </h1>
             <div class="subheading mb-5">
-              3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-              <a href="mailto:name@email.com">name@email.com</a>
+              Swagat Nagar, New Narsala Road, Nagpur, Maharashtra - 440034
+              <a href="mailto:name@email.com">sonammurarkar4@email.com</a>
             </div>
             <p class="lead mb-5">
-              Seeking a position to apply the knowledge that I have learned,
-              explore abilities and skills towards my duties, and excel in Web
-              Development (MERN stack Developer or Frontend Developer) field.
+            As a Front-end developer with good communication skills, I am seeking a Frontend web developer position where I can add value to your organization from day one. During my previous internship, I successfully developed six complete frontend projects from scratch.
+            </p>
+            <p class="lead mb-5">
+            I have a strong command of JavaScript, ReactJs, Redux, HTML5, CSS, Material UI, Figma, Typescript, as well as Java Data structure, and Algorithms in Java.
             </p>
             <div class="social-icons">
-              <a class="social-icon" href="#!">
+              <a class="social-icon" href="https://www.linkedin.com/in/sonam-murarkar-439794256/">
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a class="social-icon" href="#!">
+              <a class="social-icon" href="https://github.com/coderunner4sonam">
                 <i class="fab fa-github"></i>
               </a>
-              <a class="social-icon" href="#!">
+              <a class="social-icon" href="https://twitter.com/murarkar_sonam">
                 <i class="fab fa-twitter"></i>
-              </a>
-              <a class="social-icon" href="#!">
-                <i class="fab fa-facebook-f"></i>
               </a>
             </div>
           </div>
@@ -53,7 +51,7 @@ const Home = () => {
               <div class="flex-grow-1">
                 <h3 class="mb-0">NEWTON SCHOOL</h3>
                 <div class="subheading mb-3">
-                  Full Stack | MERN Stack | Bootcamp Training
+                  Full Stack | MERN Stack | Internship
                 </div>
                 <p>
                   Full Stack Development along with Data Structure , Algorithm
@@ -63,9 +61,17 @@ const Home = () => {
                 <h4 class="subheading mb-3">Projects</h4>
 
                 <p>
-                  <div class="subheading mb-3">
-                    1) School Management System - Project
-                  </div>
+                
+                <div class="subheading mb-3">
+                          1) School Management System - Project   
+                </div>
+                <p>
+                            <a class="social-icon" href="https://deluxe-biscuit-cbc743.netlify.app/">(link)</a>
+                            <a class="social-icon" href="https://github.com/coderunner4sonam/SchoolManagement">(Github repository)</a>
+                </p>
+           
+                
+                   
                   Overview: School Management System website is an asset to track & control student details.
                   <p>Features:-</p>
                   <p> ● It allows school to search for any of their student details.</p> 
@@ -82,6 +88,10 @@ const Home = () => {
                   <div class="subheading mb-3">
                   2) Recipe Tadka Project
                   </div>
+                  <p>
+                            <a class="social-icon" href="https://creative-mousse-25ea01.netlify.app/">(link)</a>
+                            <a class="social-icon" href="https://github.com/coderunner4sonam/RecipeTadka">(Github repository)</a>
+                </p>
                   Overview: Recipe Tadka Project is an asset to searching for user-favorite recipes.
                   <p>Features:-</p>
                   <p> ● Fully dynamic search functionality for searching any recipe & assets.</p> 
@@ -96,7 +106,7 @@ const Home = () => {
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">April 2022 - Present</span>
+                <span class="text-primary">April 2022 - January 2023  </span>
               </div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
