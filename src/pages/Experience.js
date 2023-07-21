@@ -67,7 +67,6 @@ const Experience = () => {
                   <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
                   <p> ● User search for any of their student details by their name.</p>
                   <p> ● Worked on various Api for dynamically fetch data for the web page.</p>
-                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
                   <p> ● Page Not Found - page will show if the user enters the wrong input in url.</p>
                   <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
                 </p>
