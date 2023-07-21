@@ -27,7 +27,7 @@ const Home = () => {
             As a Front-end developer with good communication skills, I am seeking a Frontend web developer position where I can add value to your organization from day one. During my previous internship, I successfully developed six complete frontend projects from scratch.
             </p>
             <p class="lead mb-5">
-            I have a strong command of JavaScript, ReactJs, Redux, HTML5, CSS, Material UI, Figma, Typescript, as well as Java Data structure, and Algorithms in Java.
+            I have a strong command of JavaScript, ReactJs, Redux, HTML5, CSS, Material UI, Figma, Typescript, as well as Data structure, and Algorithms in Java.
             </p>
             <div class="social-icons">
               <a class="social-icon" href="https://www.linkedin.com/in/sonam-murarkar-439794256/">
