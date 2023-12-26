@@ -43,27 +43,32 @@ const Skills = () => {
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Responsive Design , worked on various project from scratch.
+                Languages: HTML, CSS, Javascript, Typescript, Java
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Cross Browser Testing & Debugging
+                Library and Framework: React JS, Redux, Material UI, Bootstrap, Tailwind, Jest(Testing)
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Data Structure , Algorithm and problem solving.
+                Database: MongoDb, Postgresql
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Include Material ui library for react and bootstrap framework.
+                Concepts:  Object Oriented Programming, Functional and Procedural Programming
               </li>
-              
+              <li>
+                <span class="fa-li">
+                  <i class="fas fa-check"></i>
+                </span>
+                Dev Tools/Version: Control Git, Github, Github Action, VSCode, Linux
+              </li>
             </ul>
           </div>
         </section>

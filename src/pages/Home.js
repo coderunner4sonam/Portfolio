@@ -24,11 +24,9 @@ const Home = () => {
               <a href="mailto:name@email.com">sonammurarkar4@email.com</a>
             </div>
             <p class="lead mb-5">
-            As a Front-end developer with good communication skills, I am seeking a Frontend web developer position where I can add value to your organization from day one. During my previous internship, I successfully developed six complete frontend projects from scratch.
-            </p>
+            As a Junior Web Developer at Excel Training and Consultancy Services, I contributed to the collaborative design and implementation of app architectures, ensuring seamless frontend-backend collaboration. Notably, I successfully developed diverse projects, such as a multiplayer Ludo game with advanced features, an efficient code editor app with real-time execution, and a dynamic recipe discovery web app.             </p>
             <p class="lead mb-5">
-            I have a strong command of JavaScript, ReactJs, Redux, HTML5, CSS, Material UI, Figma, Typescript, Java as well as Data structure, and Algorithms.
-            </p>
+            Additionally, my role as a Technical Support and Delivery Executive at Infosys involved optimizing client communication, translating developer requirements, and leading cross-functional teams for process improvement.            </p>
             <div class="social-icons">
               <a class="social-icon" href="https://www.linkedin.com/in/sonam-murarkar-439794256/">
                 <i class="fab fa-linkedin-in"></i>
@@ -49,83 +47,139 @@ const Home = () => {
             <h2 class="mb-5">Experience</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">NEWTON SCHOOL</h3>
-                <div class="subheading mb-3">
-                  Full Stack | MERN Stack | Internship
-                </div>
+                <h3 class="mb-0">Excel Training and Consultancy Services</h3>
+                <div class="subheading mb-3">Junior Web Developer</div>
                 <p>
-                  Full Stack Development along with Data Structure , Algorithm
-                  and problem solving. Technical Tech Stack Learnt : HTML5 , CSS
-                  ,JavaScript , React.js ,Node.js,Github
+                  ● Collaborated with the frontend team to design and implement
+                  the app architecture.
+                </p>
+                <p>
+                  ● Ensured seamless collaboration with the backend team for
+                  cohesive development.
+                </p>
+                <p>
+                  ● Contributed to the design, implementation of the app’s
+                  architecture in tandem with the frontend team.{" "}
                 </p>
                 <h4 class="subheading mb-3">Projects</h4>
 
                 <p>
-                
-                <div class="subheading mb-3">
-                          1) School Management System - Project   
-                </div>
-                <p>
-                            <a class="social-icon" href="https://deluxe-biscuit-cbc743.netlify.app/">(link)</a>
-                            <a class="social-icon" href="https://github.com/coderunner4sonam/SchoolManagement">(Github repository)</a>
-                </p>
-           
-                
-                   
-                  Overview: School Management System website is an asset to track & control student details.
-                  <p>Features:-</p>
-                  <p> ● It allows school to search for any of their student details.</p> 
-                  <p> ● User can edit any of their student details - first name, last name, grades, email Id, phone number, and student class. </p>
-                  <p> ● User can add any of their student data. </p>    
-                  <p> ●  Implemented dynamic toggle sidebar for managing all the pages.</p>
-                  <p> ● Fully dynamic search functionality for searching any student details & assets.</p>
-                  <p> ● User can see total number of students separately.</p>
-                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
-                  <p> ● Page Not Found - page will show if the user enters the wrong input in url.</p>
-                  <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
-                </p>
-                <p>
-                  <div class="subheading mb-3">
-                  2) Recipe Tadka Project
-                  </div>
+                  <div class="subheading mb-3">1) LUDO GAME</div>
                   <p>
-                            <a class="social-icon" href="https://creative-mousse-25ea01.netlify.app/">(link)</a>
-                            <a class="social-icon" href="https://github.com/coderunner4sonam/RecipeTadka">(Github repository)</a>
-                </p>
-                  Overview: Recipe Tadka Project is an asset to searching for user-favorite recipes.
+                    <a
+                      class="social-icon"
+                      href="https://ludogame-5zq1.vercel.app/"
+                    >
+                      (link)
+                    </a>
+                    <a
+                      class="social-icon"
+                      href="https://github.com/coderunner4sonam/ludogame"
+                    >
+                      (Github repository)
+                    </a>
+                  </p>
+                  Overview: ”FamousMultiplayerr Board Game Ludo extended up to
+                  6,8,10... players”
                   <p>Features:-</p>
-                  <p> ● Fully dynamic search functionality for searching any recipe & assets.</p> 
-                  <p> ● Users will get different varieties of recipes. </p>
-                  <p> ● Implemented dynamic Carousal feature for all the current trending recipes.</p>    
-                  <p> ● Implemented Pagination feature for multiple pages and performance of the web page.</p>
-                  <p> ● User search for any of their student details by their name.</p>
-                  <p> ● Worked on various Api for dynamically fetch data for the web page.</p>
-                  <p> ● Page Not Found - page will show if the user enters the wrong input in url.</p>
-                  <p> Tech Stack: React, Material UI, HTML, CSS, JavaScript</p>
+                  <p>
+                    ● Collaborated to execute a sophisticated and complex board
+                    design utilizing SVG.
+                  </p>
+                  <p>
+                    ● Focused on creating a secure Login/Signup system from
+                    scratch using Formik and JWT
+                  </p>
+                  <p>
+                    ● Worked on the design and development of the leader board
+                    for the ludo game.
+                  </p>
+                  <p> Tech Stack:  HTML, CSS, JavaScript, React, MongoDB, NodeJs, Express, Jest</p>
+                </p>
+                <p>
+                  <div class="subheading mb-3">2) CODE EDITOR APP </div>
+                  <p>
+                    <a
+                      class="social-icon"
+                      href="https://code-editor-app-pi.vercel.app/"
+                    >
+                      (link)
+                    </a>
+                    <a
+                      class="social-icon"
+                      href="https://github.com/coderunner4sonam/Code_Editor_App"
+                    >
+                      (Github repository)
+                    </a>
+                  </p>
+                  Overview: ”Efficient coding with syntax highlighting and real-time execution in a user-friendly interface”
+                  <p>Features:-</p>
+                  <p>
+                    ● Enhance code readability with highlighted syntax for different programming languages. 
+                  </p>
+                  <p>
+                    ● Instantly run and view code results for testing, experimentation and Used Monaco editor.
+                  </p>
+                  <p>
+                    ● Save snippets for future reference, with the ability to organize them into folders for easy retrieval.
+                  </p>
+                  <p> Tech Stack:  HTML, CSS, JavaScript, React</p>
+                </p>
+                <p>
+                  <div class="subheading mb-3">3) Recipe Tadka Project</div>
+                  <p>
+                    <a
+                      class="social-icon"
+                      href="https://creative-mousse-25ea01.netlify.app/"
+                    >
+                      (link)
+                    </a>
+                    <a
+                      class="social-icon"
+                      href="https://github.com/coderunner4sonam/RecipeTadka"
+                    >
+                      (Github repository)
+                    </a>
+                  </p>
+                  Overview: ”An Webapp asset for users to search, explore & discover their favorite recipes with dynamic features”
+
+                  <p>Features:-</p>
+                  <p>
+                    ● Implemented a fully dynamic search functionality for seamless searching of any recipe and assets
+                  </p>
+                  <p> ● Developed a dynamic Carousal feature for showcasing the current trending recipes. </p>
+                  <p>
+              
+                    ● Worked extensively with Edamam APIs to dynamically fetch data and relevant content for users
+                  </p>
+
+                  <p> Tech Stack: HTML, CSS, JavaScript, React, Material UI.</p>
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">April 2022 - January 2023  </span>
+                <span class="text-primary">Sep 2022 - Nov 2023 </span>
               </div>
             </div>
+
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Customer Support Executive</h3>
+                <h3 class="mb-0"> Technical Support and Delivery Executive</h3>
                 <div class="subheading mb-3">Infosys Limited Pune</div>
                 <p>
-                  ● used to give Tech-support In the “Broadband Process” for UK through
-                  calls, chats, and emails so that customers are happy by
-                  solving their queries.
+                  ● Streamlined client communication, translated developer
+                  requirements and trained newcomers for enhanced team
+                  performance. Led and Directed a Cross-Functional Team in
+                  Process Improv
                 </p>
-                <p>● used to handle client meeting</p>
                 <p>
-                  ● used to give training to new trainee.
+                  ● Participated in team building activity to enhance the
+                  performance of the team.
                 </p>
               </div>
               <div class="flex-shrink-0">
                 <span class="text-primary">May 2018 - March 2022</span>
               </div>
-            </div> 
+            </div>
           </div>
         </section>
 
@@ -208,27 +262,32 @@ const Home = () => {
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Responsive Design , worked on various project from scratch.
+                Languages: HTML, CSS, Javascript, Typescript, Java
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Cross Browser Testing & Debugging
+                Library and Framework: React JS, Redux, Material UI, Bootstrap, Tailwind, Jest(Testing)
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Data Structure , Algorithm and problem solving.
+                Database: MongoDb, Postgresql
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Include Material ui library for react and bootstrap framework.
+                Concepts:  Object Oriented Programming, Functional and Procedural Programming
               </li>
-              
+              <li>
+                <span class="fa-li">
+                  <i class="fas fa-check"></i>
+                </span>
+                Dev Tools/Version: Control Git, Github, Github Action, VSCode, Linux
+              </li>
             </ul>
           </div>
         </section>
@@ -238,16 +297,10 @@ const Home = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
-              Apart from being a web developer, I enjoy most of my time being
-              outdoors. In the winter, I am an avid skier and novice ice
-              climber. During the warmer months here in Colorado, I enjoy
-              free climbing, and kayaking.
+            Passionate about full-stack development, I excel in architecting cohesive web solutions, evident in projects like a sophisticated Ludo Game and efficient Code Editor App. 
             </p>
             <p class="mb-0">
-              When forced indoors, I follow a number of sci-fi and fantasy genre
-              movies and television shows, I am an aspiring chef, and I spend a
-              large amount of my free time exploring the latest technology
-              advancements in the front-end web development world.
+            My interest extends to crafting innovative web applications, demonstrated in the Recipe Tadka Project. Committed to continuous learning, I thrive on optimizing code for efficiency and exhibit leadership qualities from my role at Infosys Limited, enhancing team performance and driving process improvement.
             </p>
           </div>
         </section>
@@ -257,41 +310,26 @@ const Home = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Awards & Certifications</h2>
             <ul class="fa-ul mb-0">
-            <li>
+              <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                Achieved Global Rank: 14767 Rank out of 22841 in Codechef Coding Platform.  
+                • Completed Meta Front-End Developer Professional Certificate{" "}
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                 Build Responsive Website Using HTML5,CSS3,JS AND BOOTSTRAP- EDUCBA Certification
+                • Solved 150 Leetcode questions and achieved a 794 rating on the
+                CodeChef platform.
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                Government Commercial Certificate Examination (English Typing)
-              </li>
-              <li>
-                <span class="fa-li">
-                  <i class="fas fa-trophy text-warning"></i>
-                </span>
-                Completed Mern Stack Course - Grass Certification.
-              </li>
-              <li>
-                <span class="fa-li">
-                  <i class="fas fa-trophy text-warning"></i>
-                </span>
-                Entrepreneurship Development & Technical Programme - Milton Certification.
-              </li>
-              <li>
-                <span class="fa-li">
-                  <i class="fas fa-trophy text-warning"></i>
-                </span>
-                Certificate Course in Medical Laboratory technology - Amar Sewa Mandal's.
+                • Build my Twitter following in the field of Web Development to
+                1000 followers, with a focus on assisting newcomers in learning
+                Data Structures and Algorithms and web development.
               </li>
             </ul>
           </div>

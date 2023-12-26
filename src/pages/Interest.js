@@ -11,16 +11,10 @@ const Interest = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
-              Apart from being a web developer, I enjoy most of my time being
-              outdoors. In the winter, I am an avid skier and novice ice
-              climber. During the warmer months here in Colorado, I enjoy
-              free climbing, and kayaking.
+            Passionate about full-stack development, I excel in architecting cohesive web solutions, evident in projects like a sophisticated Ludo Game and efficient Code Editor App. 
             </p>
             <p class="mb-0">
-              When forced indoors, I follow a number of sci-fi and fantasy genre
-              movies and television shows, I am an aspiring chef, and I spend a
-              large amount of my free time exploring the latest technology
-              advancements in the front-end web development world.
+            My interest extends to crafting innovative web applications, demonstrated in the Recipe Tadka Project. Committed to continuous learning, I thrive on optimizing code for efficiency and exhibit leadership qualities from my role at Infosys Limited, enhancing team performance and driving process improvement.
             </p>
           </div>
         </section>
