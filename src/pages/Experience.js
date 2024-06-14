@@ -20,141 +20,134 @@ const Experience = () => {
             <h2 class="mb-5">Experience</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Excel Training and Consultancy Services</h3>
-                <div class="subheading mb-3">Junior Web Developer</div>
+                <h3 class="mb-0">Samyaksanklp Pvt. Ltd.</h3>
+                <div class="subheading mb-3">Associate Business Analyst</div>
                 <p>
-                  ● Collaborated with the frontend team to design and implement
-                  the app architecture.
+                  ● Conducted business analysis and process improvement to
+                  enhance business processes.
                 </p>
                 <p>
-                  ● Ensured seamless collaboration with the backend team for
-                  cohesive development.
+                  ● Gathered and documented business requirements (BRD, SRS,
+                  FRD).
                 </p>
                 <p>
-                  ● Contributed to the design, implementation of the app’s
-                  architecture in tandem with the frontend team.{" "}
-                </p>
-                <h4 class="subheading mb-3">Projects</h4>
-
-                <p>
-                  <div class="subheading mb-3">1) LUDO GAME</div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://ludogame-5zq1.vercel.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/ludogame"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”FamousMultiplayerr Board Game Ludo extended up to
-                  6,8,10... players”
-                  <p>Features:-</p>
-                  <p>
-                    ● Collaborated to execute a sophisticated and complex board
-                    design utilizing SVG.
-                  </p>
-                  <p>
-                    ● Focused on creating a secure Login/Signup system from
-                    scratch using Formik and JWT
-                  </p>
-                  <p>
-                    ● Worked on the design and development of the leader board
-                    for the ludo game.
-                  </p>
-                  <p> Tech Stack:  HTML, CSS, JavaScript, React, MongoDB, NodeJs, Express, Jest</p>
+                  ● Analyzed requirements, proposed solutions, and communicated
+                  with stakeholders.
                 </p>
                 <p>
-                  <div class="subheading mb-3">2) CODE EDITOR APP </div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://code-editor-app-pi.vercel.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/Code_Editor_App"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”Efficient coding with syntax highlighting and real-time execution in a user-friendly interface”
-                  <p>Features:-</p>
-                  <p>
-                    ● Enhance code readability with highlighted syntax for different programming languages. 
-                  </p>
-                  <p>
-                    ● Instantly run and view code results for testing, experimentation and Used Monaco editor.
-                  </p>
-                  <p>
-                    ● Save snippets for future reference, with the ability to organize them into folders for easy retrieval.
-                  </p>
-                  <p> Tech Stack:  HTML, CSS, JavaScript, React</p>
+                  ● Utilized business process modeling tools: Microsoft Word, MS
+                  Excel, PowerBI
                 </p>
                 <p>
-                  <div class="subheading mb-3">3) Recipe Tadka Project</div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://creative-mousse-25ea01.netlify.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/RecipeTadka"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”An Webapp asset for users to search, explore & discover their favorite recipes with dynamic features”
-
-                  <p>Features:-</p>
-                  <p>
-                    ● Implemented a fully dynamic search functionality for seamless searching of any recipe and assets
-                  </p>
-                  <p> ● Developed a dynamic Carousal feature for showcasing the current trending recipes. </p>
-                  <p>
-              
-                    ● Worked extensively with Edamam APIs to dynamically fetch data and relevant content for users
-                  </p>
-
-                  <p> Tech Stack: HTML, CSS, JavaScript, React, Material UI.</p>
+                  ● Involved in UAT, Support during the implementation in
+                  production, providing User manual.
+                </p>
+                <p>
+                  ● Worked with internal teams to ensure accurate and timely
+                  delivery of solutions.
                 </p>
               </div>
+
               <div class="flex-shrink-0">
-                <span class="text-primary">Sep 2022 - Nov 2023 </span>
+                <span class="text-primary"> May 2022 - Present </span>
               </div>
             </div>
 
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0"> Technical Support and Delivery Executive</h3>
+                <h3 class="mb-0"> Finance Analyst</h3>
                 <div class="subheading mb-3">Infosys Limited Pune</div>
                 <p>
-                  ● Streamlined client communication, translated developer
-                  requirements and trained newcomers for enhanced team
-                  performance. Led and Directed a Cross-Functional Team in
-                  Process Improv
+                  ● Participated in client meetings at British Telecom for
+                  requirement gathering and updates.
                 </p>
                 <p>
-                  ● Participated in team building activity to enhance the
-                  performance of the team.
+                  ● Utilized Excel for financial data analysis, using VLOOKUP,
+                  pivot tables, and charts.
+                </p>
+                <p>
+                  ● Analyzed requirements, proposed solutions, and communicated
+                  with stakeholders.
+                </p>
+                <p>
+                  ● Specialized in training new team members, and led process
+                  improvements.
+                </p>
+                <p>
+                  ● Provided timely and effective customer support via phone,
+                  email writing, live chat, and tickets
                 </p>
               </div>
               <div class="flex-shrink-0">
                 <span class="text-primary">May 2018 - March 2022</span>
               </div>
             </div>
+            <h3 class="mb-0"> projects</h3>
+            <p>
+              <div class="subheading mb-3">
+                1) Vrinda Store Annul Excel Report
+              </div>
+              <p>
+                <a
+                  class="social-icon"
+                  href="https://onedrive.live.com/edit?id=D53D8C8154B76423!110&resid=D53D8C8154B76423!110&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvcyFBaU5rdDFTQmpEM1Zia3NwQWd3U3luLVMxMzA_ZT1RdThyMFk&migratedtospo=true&wdo=2&cid=d53d8c8154b76423"
+                >
+                  (link)
+                </a>
+              </p>
+              Overview: "Analyzed Vrinda Store's 2022 sales and created a
+              dashboard to identify growth opportunities".
+              <p>Features:-</p>
+              <p>
+                ● Analyzed Vrinda Store’s 2022 sales, and orders to detect peak
+                periods and purchasing patterns.
+              </p>
+              <p>
+                ● Created an interactive dashboard for real-time data
+                visualization.
+              </p>
+              <p>
+                ● Identified opportunities for revenue growth, operational
+                improvements and provide conclusion.
+              </p>
+              <p>
+                {" "}
+                Tech Stack: Excel, Used Formulas, Created Automated dashboard,
+                VLOOKUP, Pie-Charts
+              </p>
+            </p>
+            <p>
+              <div class="subheading mb-3">
+                2) Madhav E-commerce Power BI Report Power Bi Project Link{" "}
+              </div>
+              <p>
+                <a
+                  class="social-icon"
+                  href="https://drive.google.com/file/d/1cvOwMMxJ6QB-MtqWte4B4S3-RTZ3k1Xq/view"
+                >
+                  (link)
+                </a>
+              </p>
+              Overview: ”Developed an interactive Power BI dashboard for online
+              sales analysis with customized visualizations.”
+              <p>Features:-</p>
+              <p>
+                ● Developed interactive dashboard for online sales data
+                analysis.
+              </p>
+              <p>
+                ● Established connections, joined tables, performed calculations
+                and enabled user parameters.
+              </p>
+              <p>
+                ● Created customized visualizations: bar, pie, donut, clustered
+                bar, scatter, line, area, map, slicers.
+              </p>
+              <p> Tech Stack: Power BI</p>
+            </p>
           </div>
         </section>
+        
         <hr class="m-0" />
       </div>
     </>

@@ -21,22 +21,36 @@ const Home = () => {
             </h1>
             <div class="subheading mb-5">
               Swagat Nagar, New Narsala Road, Nagpur, Maharashtra - 440034
-              <a href="mailto:name@email.com">sonammurarkar4@email.com</a>
+              <a href="mailto:name@email.com">sonammurarkar41@email.com</a>
             </div>
             <p class="lead mb-5">
-            As a Junior Web Developer at Excel Training and Consultancy Services, I contributed to the collaborative design and implementation of app architectures, ensuring seamless frontend-backend collaboration. Notably, I successfully developed diverse projects, such as a multiplayer Ludo game with advanced features, an efficient code editor app with real-time execution, and a dynamic recipe discovery web app.             </p>
+              As an Associate Business Analyst at Samyaksanklp Pvt. Ltd. since
+              May 2022, I enhanced business processes through detailed analysis
+              and stakeholder communication. Notably, I gathered and documented
+              comprehensive business requirements using tools like Microsoft
+              Word, Excel, and PowerBI, ensuring timely solution delivery and
+              effective user support.
+            </p>
             <p class="lead mb-5">
-            Additionally, my role as a Technical Support and Delivery Executive at Infosys involved optimizing client communication, translating developer requirements, and leading cross-functional teams for process improvement.            </p>
+              Additionally, my role as a Finance Analyst at Infosys Pvt. Ltd.
+              from May 2018 to March 2022 involved financial data analysis,
+              client requirement gathering, and leading process improvements,
+              with a focus on training new team members and optimizing customer
+              support.
+            </p>
             <div class="social-icons">
-              <a class="social-icon" href="https://www.linkedin.com/in/sonam-murarkar-439794256/">
+              <a
+                class="social-icon"
+                href="https://www.linkedin.com/in/sonam-murarkar-5a4773276/"
+              >
                 <i class="fab fa-linkedin-in"></i>
               </a>
               <a class="social-icon" href="https://github.com/coderunner4sonam">
                 <i class="fab fa-github"></i>
               </a>
-              <a class="social-icon" href="https://twitter.com/murarkar_sonam">
+              {/* <a class="social-icon" href="https://twitter.com/murarkar_sonam">
                 <i class="fab fa-twitter"></i>
-              </a>
+              </a> */}
             </div>
           </div>
         </section>
@@ -47,139 +61,131 @@ const Home = () => {
             <h2 class="mb-5">Experience</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Excel Training and Consultancy Services</h3>
-                <div class="subheading mb-3">Junior Web Developer</div>
+                <h3 class="mb-0">Samyaksanklp Pvt. Ltd.</h3>
+                <div class="subheading mb-3">Associate Business Analyst</div>
                 <p>
-                  ● Collaborated with the frontend team to design and implement
-                  the app architecture.
+                  ● Conducted business analysis and process improvement to
+                  enhance business processes.
                 </p>
                 <p>
-                  ● Ensured seamless collaboration with the backend team for
-                  cohesive development.
+                  ● Gathered and documented business requirements (BRD, SRS,
+                  FRD).
                 </p>
                 <p>
-                  ● Contributed to the design, implementation of the app’s
-                  architecture in tandem with the frontend team.{" "}
-                </p>
-                <h4 class="subheading mb-3">Projects</h4>
-
-                <p>
-                  <div class="subheading mb-3">1) LUDO GAME</div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://ludogame-5zq1.vercel.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/ludogame"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”FamousMultiplayerr Board Game Ludo extended up to
-                  6,8,10... players”
-                  <p>Features:-</p>
-                  <p>
-                    ● Collaborated to execute a sophisticated and complex board
-                    design utilizing SVG.
-                  </p>
-                  <p>
-                    ● Focused on creating a secure Login/Signup system from
-                    scratch using Formik and JWT
-                  </p>
-                  <p>
-                    ● Worked on the design and development of the leader board
-                    for the ludo game.
-                  </p>
-                  <p> Tech Stack:  HTML, CSS, JavaScript, React, MongoDB, NodeJs, Express, Jest</p>
+                  ● Analyzed requirements, proposed solutions, and communicated
+                  with stakeholders.
                 </p>
                 <p>
-                  <div class="subheading mb-3">2) CODE EDITOR APP </div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://code-editor-app-pi.vercel.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/Code_Editor_App"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”Efficient coding with syntax highlighting and real-time execution in a user-friendly interface”
-                  <p>Features:-</p>
-                  <p>
-                    ● Enhance code readability with highlighted syntax for different programming languages. 
-                  </p>
-                  <p>
-                    ● Instantly run and view code results for testing, experimentation and Used Monaco editor.
-                  </p>
-                  <p>
-                    ● Save snippets for future reference, with the ability to organize them into folders for easy retrieval.
-                  </p>
-                  <p> Tech Stack:  HTML, CSS, JavaScript, React</p>
+                  ● Utilized business process modeling tools: Microsoft Word, MS
+                  Excel, PowerBI
                 </p>
                 <p>
-                  <div class="subheading mb-3">3) Recipe Tadka Project</div>
-                  <p>
-                    <a
-                      class="social-icon"
-                      href="https://creative-mousse-25ea01.netlify.app/"
-                    >
-                      (link)
-                    </a>
-                    <a
-                      class="social-icon"
-                      href="https://github.com/coderunner4sonam/RecipeTadka"
-                    >
-                      (Github repository)
-                    </a>
-                  </p>
-                  Overview: ”An Webapp asset for users to search, explore & discover their favorite recipes with dynamic features”
-
-                  <p>Features:-</p>
-                  <p>
-                    ● Implemented a fully dynamic search functionality for seamless searching of any recipe and assets
-                  </p>
-                  <p> ● Developed a dynamic Carousal feature for showcasing the current trending recipes. </p>
-                  <p>
-              
-                    ● Worked extensively with Edamam APIs to dynamically fetch data and relevant content for users
-                  </p>
-
-                  <p> Tech Stack: HTML, CSS, JavaScript, React, Material UI.</p>
+                  ● Involved in UAT, Support during the implementation in
+                  production, providing User manual.
+                </p>
+                <p>
+                  ● Worked with internal teams to ensure accurate and timely
+                  delivery of solutions.
                 </p>
               </div>
+
               <div class="flex-shrink-0">
-                <span class="text-primary">Sep 2022 - Nov 2023 </span>
+                <span class="text-primary"> May 2022 - Present </span>
               </div>
             </div>
 
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0"> Technical Support and Delivery Executive</h3>
+                <h3 class="mb-0"> Finance Analyst</h3>
                 <div class="subheading mb-3">Infosys Limited Pune</div>
                 <p>
-                  ● Streamlined client communication, translated developer
-                  requirements and trained newcomers for enhanced team
-                  performance. Led and Directed a Cross-Functional Team in
-                  Process Improv
+                  ● Participated in client meetings at British Telecom for
+                  requirement gathering and updates.
                 </p>
                 <p>
-                  ● Participated in team building activity to enhance the
-                  performance of the team.
+                  ● Utilized Excel for financial data analysis, using VLOOKUP,
+                  pivot tables, and charts.
+                </p>
+                <p>
+                  ● Analyzed requirements, proposed solutions, and communicated
+                  with stakeholders.
+                </p>
+                <p>
+                  ● Specialized in training new team members, and led process
+                  improvements.
+                </p>
+                <p>
+                  ● Provided timely and effective customer support via phone,
+                  email writing, live chat, and tickets
                 </p>
               </div>
               <div class="flex-shrink-0">
                 <span class="text-primary">May 2018 - March 2022</span>
               </div>
             </div>
+            <h3 class="mb-0"> projects</h3>
+            <p>
+              <div class="subheading mb-3">
+                1) Vrinda Store Annul Excel Report
+              </div>
+              <p>
+                <a
+                  class="social-icon"
+                  href="https://onedrive.live.com/edit?id=D53D8C8154B76423!110&resid=D53D8C8154B76423!110&ithint=file%2Cxlsx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvcyFBaU5rdDFTQmpEM1Zia3NwQWd3U3luLVMxMzA_ZT1RdThyMFk&migratedtospo=true&wdo=2&cid=d53d8c8154b76423"
+                >
+                  (link)
+                </a>
+              </p>
+              Overview: "Analyzed Vrinda Store's 2022 sales and created a
+              dashboard to identify growth opportunities".
+              <p>Features:-</p>
+              <p>
+                ● Analyzed Vrinda Store’s 2022 sales, and orders to detect peak
+                periods and purchasing patterns.
+              </p>
+              <p>
+                ● Created an interactive dashboard for real-time data
+                visualization.
+              </p>
+              <p>
+                ● Identified opportunities for revenue growth, operational
+                improvements and provide conclusion.
+              </p>
+              <p>
+                {" "}
+                Tech Stack: Excel, Used Formulas, Created Automated dashboard,
+                VLOOKUP, Pie-Charts
+              </p>
+            </p>
+            <p>
+              <div class="subheading mb-3">
+                2) Madhav E-commerce Power BI Report Power Bi Project Link{" "}
+              </div>
+              <p>
+                <a
+                  class="social-icon"
+                  href="https://drive.google.com/file/d/1cvOwMMxJ6QB-MtqWte4B4S3-RTZ3k1Xq/view"
+                >
+                  (link)
+                </a>
+              </p>
+              Overview: ”Developed an interactive Power BI dashboard for online
+              sales analysis with customized visualizations.”
+              <p>Features:-</p>
+              <p>
+                ● Developed interactive dashboard for online sales data
+                analysis.
+              </p>
+              <p>
+                ● Established connections, joined tables, performed calculations
+                and enabled user parameters.
+              </p>
+              <p>
+                ● Created customized visualizations: bar, pie, donut, clustered
+                bar, scatter, line, area, map, slicers.
+              </p>
+              <p> Tech Stack: Power BI</p>
+            </p>
           </div>
         </section>
 
@@ -213,7 +219,7 @@ const Home = () => {
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">B.S.S -SSC  </h3>
+                <h3 class="mb-0">B.S.S -SSC </h3>
                 <div class="subheading mb-3">Science </div>
                 <p>GPA: 6.5</p>
               </div>
@@ -223,52 +229,27 @@ const Home = () => {
             </div>
           </div>
         </section>
+
         <hr class="m-0" />
 
         <section class="resume-section" id="skills">
           <div class="resume-section-content">
             <h2 class="mb-5">Skills</h2>
             <div class="subheading mb-3">Programming Languages & Tools</div>
-            <ul class="list-inline dev-icons">
-              <li class="list-inline-item">
-                <i class="fab fa-html5"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fab fa-css3-alt"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fab fa-js-square"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fab fa-react"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fab fa-node-js"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fa-brands fa-github"></i>
-              </li>
-              <li class="list-inline-item">
-                <i class="fab fa-npm"></i>
-              </li>
-              <li class="list-inline-item">
-              <i class="fa-brands fa-bootstrap"></i>
-              </li>
-              
-            </ul>
             <div class="subheading mb-3">Workflow</div>
             <ul class="fa-ul mb-0">
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Languages: HTML, CSS, Javascript, Typescript, Java
+                Languages: HTML, CSS, Javascript, Python, SQL
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Library and Framework: React JS, Redux, Material UI, Bootstrap, Tailwind, Jest(Testing)
+                Tools: Power BI, Advanced Excel, PowerPoint, SharePoint, Data
+                Modelling, MySQL
               </li>
               <li>
                 <span class="fa-li">
@@ -280,13 +261,14 @@ const Home = () => {
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Concepts:  Object Oriented Programming, Functional and Procedural Programming
+                Platforms: Jupyter Notebook, Visual Studio
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Dev Tools/Version: Control Git, Github, Github Action, VSCode, Linux
+                Soft Skills: Report and Dashboard Creation, Stakeholder
+                Management, Client Communication
               </li>
             </ul>
           </div>
@@ -297,13 +279,23 @@ const Home = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
-            Passionate about full-stack development, I excel in architecting cohesive web solutions, evident in projects like a sophisticated Ludo Game and efficient Code Editor App. 
+              Passionate about business analysis and process optimization, I
+              excel in enhancing business processes and stakeholder
+              communication, as demonstrated in my role at Samyaksanklp Pvt.
+              Ltd. My expertise in gathering and documenting comprehensive
+              business requirements, using tools like Microsoft Word, Excel, and
+              PowerBI, drives my ability to deliver effective solutions.
             </p>
             <p class="mb-0">
-            My interest extends to crafting innovative web applications, demonstrated in the Recipe Tadka Project. Committed to continuous learning, I thrive on optimizing code for efficiency and exhibit leadership qualities from my role at Infosys Limited, enhancing team performance and driving process improvement.
+              My interest extends to financial data analysis and client
+              communication, showcased in my tenure at Infosys Pvt. Ltd. I
+              thrive on training new team members, leading process improvements,
+              and optimizing customer support, continually striving for
+              professional growth in the dynamic field of business analysis.
             </p>
           </div>
         </section>
+        
         <hr class="m-0" />
 
         <section class="resume-section" id="awards">
@@ -314,22 +306,14 @@ const Home = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                • Completed Meta Front-End Developer Professional Certificate{" "}
+                • Career Essentials in Business Analysis (Microsoft)
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                • Solved 150 Leetcode questions and achieved a 794 rating on the
-                CodeChef platform.
-              </li>
-              <li>
-                <span class="fa-li">
-                  <i class="fas fa-trophy text-warning"></i>
-                </span>
-                • Build my Twitter following in the field of Web Development to
-                1000 followers, with a focus on assisting newcomers in learning
-                Data Structures and Algorithms and web development.
+                • Completed BootCamp of Business Analyst at Grras Solution Pvt.
+                Ltd
               </li>
             </ul>
           </div>

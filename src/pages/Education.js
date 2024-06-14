@@ -43,7 +43,7 @@ const Education = () => {
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h3 class="mb-0">B.S.S -SSC  </h3>
+                <h3 class="mb-0">B.S.S -SSC </h3>
                 <div class="subheading mb-3">Science </div>
                 <p>GPA: 6.5</p>
               </div>

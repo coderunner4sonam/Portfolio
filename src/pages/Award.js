@@ -14,22 +14,14 @@ const Award = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                • Completed Meta Front-End Developer Professional Certificate{" "}
+                • Career Essentials in Business Analysis (Microsoft)
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                • Solved 150 Leetcode questions and achieved a 794 rating on the
-                CodeChef platform.
-              </li>
-              <li>
-                <span class="fa-li">
-                  <i class="fas fa-trophy text-warning"></i>
-                </span>
-                • Build my Twitter following in the field of Web Development to
-                1000 followers, with a focus on assisting newcomers in learning
-                Data Structures and Algorithms and web development.
+                • Completed BootCamp of Business Analyst at Grras Solution Pvt.
+                Ltd
               </li>
             </ul>
           </div>
