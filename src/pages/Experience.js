@@ -18,64 +18,45 @@ const Experience = () => {
         <section class="resume-section" id="experience">
           <div class="resume-section-content">
             <h2 class="mb-5">Experience</h2>
-            <div class="d-flex flex-column flex-md-row justify-content-between">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Samyaksanklp Pvt. Ltd.</h3>
-                <div class="subheading mb-3">Associate Business Analyst</div>
-                <p>
-                  ● Conducted business analysis and process improvement to
-                  enhance business processes.
-                </p>
-                <p>
-                  ● Gathered and documented business requirements (BRD, SRS,
-                  FRD).
-                </p>
-                <p>
-                  ● Analyzed requirements, proposed solutions, and communicated
-                  with stakeholders.
-                </p>
-                <p>
-                  ● Utilized business process modeling tools: Microsoft Word, MS
-                  Excel, PowerBI
-                </p>
-                <p>
-                  ● Involved in UAT, Support during the implementation in
-                  production, providing User manual.
-                </p>
-                <p>
-                  ● Worked with internal teams to ensure accurate and timely
-                  delivery of solutions.
-                </p>
-              </div>
-
-              <div class="flex-shrink-0">
-                <span class="text-primary"> May 2022 - Present </span>
-              </div>
-            </div>
-
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h3 class="mb-0"> Finance Analyst</h3>
                 <div class="subheading mb-3">Infosys Limited Pune</div>
+
                 <p>
-                  ● Participated in client meetings at British Telecom for
+                ● Participated in client meetings at British Telecom for
                   requirement gathering and updates.
                 </p>
                 <p>
-                  ● Utilized Excel for financial data analysis, using VLOOKUP,
+                ● Utilized Excel for financial data analysis, using VLOOKUP,
                   pivot tables, and charts.
                 </p>
                 <p>
-                  ● Analyzed requirements, proposed solutions, and communicated
-                  with stakeholders.
+                ● Analyzed requirements, proposed solutions, communicated with
+                  stakeholders.
                 </p>
                 <p>
-                  ● Specialized in training new team members, and led process
+                ● Downloaded and uploaded bank statements for financial
+                  analysis. Ensured accuracy in recording transactions. Analyzed
+                  and applied unidentified cash to reconcile accounts.
+                </p>
+                <p>
+                ● Improved cash management and conducted root cause analysis to
+                  identify team errors.
+                </p>
+                <p>
+                ● Resolved technical issues related to broadband connectivity,
+                  speed, and performance. Monitored network infrastructure and
+                  identified potential issues to preemptively address service
+                  disruptions.
+                </p>
+                <p>
+                ● Specialized in training new team members, led process
                   improvements.
                 </p>
                 <p>
-                  ● Provided timely and effective customer support via phone,
-                  email writing, live chat, and tickets
+                ● Provided timely and effective customer support via phone,
+                  email, live chat, and tickets.
                 </p>
               </div>
               <div class="flex-shrink-0">
@@ -147,7 +128,7 @@ const Experience = () => {
             </p>
           </div>
         </section>
-        
+
         <hr class="m-0" />
       </div>
     </>

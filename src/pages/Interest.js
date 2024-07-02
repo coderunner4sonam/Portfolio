@@ -13,8 +13,7 @@ const Interest = () => {
             <p>
               Passionate about business analysis and process optimization, I
               excel in enhancing business processes and stakeholder
-              communication, as demonstrated in my role at Samyaksanklp Pvt.
-              Ltd. My expertise in gathering and documenting comprehensive
+              communication. My expertise in gathering and documenting comprehensive
               business requirements, using tools like Microsoft Word, Excel, and
               PowerBI, drives my ability to deliver effective solutions.
             </p>

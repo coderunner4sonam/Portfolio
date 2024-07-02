@@ -23,20 +23,15 @@ const Home = () => {
               Swagat Nagar, New Narsala Road, Nagpur, Maharashtra - 440034
               <a href="mailto:name@email.com">sonammurarkar41@email.com</a>
             </div>
+
             <p class="lead mb-5">
-              As an Associate Business Analyst at Samyaksanklp Pvt. Ltd. since
-              May 2022, I enhanced business processes through detailed analysis
-              and stakeholder communication. Notably, I gathered and documented
-              comprehensive business requirements using tools like Microsoft
-              Word, Excel, and PowerBI, ensuring timely solution delivery and
-              effective user support.
-            </p>
-            <p class="lead mb-5">
-              Additionally, my role as a Finance Analyst at Infosys Pvt. Ltd.
-              from May 2018 to March 2022 involved financial data analysis,
-              client requirement gathering, and leading process improvements,
-              with a focus on training new team members and optimizing customer
-              support.
+              Experienced in client meetings and financial data analysis at
+              British Telecom. Skilled in Excel for financial insights and bank
+              statement analysis. Improved cash management and team performance
+              through root cause analysis. Resolved technical issues in
+              broadband connectivity and led training initiatives. Dedicated to
+              enhancing processes and delivering effective customer support
+              across various channels.
             </p>
             <div class="social-icons">
               <a
@@ -60,35 +55,6 @@ const Home = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Experience</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Samyaksanklp Pvt. Ltd.</h3>
-                <div class="subheading mb-3">Associate Business Analyst</div>
-                <p>
-                  ● Conducted business analysis and process improvement to
-                  enhance business processes.
-                </p>
-                <p>
-                  ● Gathered and documented business requirements (BRD, SRS,
-                  FRD).
-                </p>
-                <p>
-                  ● Analyzed requirements, proposed solutions, and communicated
-                  with stakeholders.
-                </p>
-                <p>
-                  ● Utilized business process modeling tools: Microsoft Word, MS
-                  Excel, PowerBI
-                </p>
-                <p>
-                  ● Involved in UAT, Support during the implementation in
-                  production, providing User manual.
-                </p>
-                <p>
-                  ● Worked with internal teams to ensure accurate and timely
-                  delivery of solutions.
-                </p>
-              </div>
-
               <div class="flex-shrink-0">
                 <span class="text-primary"> May 2022 - Present </span>
               </div>
@@ -107,16 +73,31 @@ const Home = () => {
                   pivot tables, and charts.
                 </p>
                 <p>
-                  ● Analyzed requirements, proposed solutions, and communicated
-                  with stakeholders.
+                  ● Analyzed requirements, proposed solutions, communicated with
+                  stakeholders.
                 </p>
                 <p>
-                  ● Specialized in training new team members, and led process
+                  ● Downloaded and uploaded bank statements for financial
+                  analysis. Ensured accuracy in recording transactions. Analyzed
+                  and applied unidentified cash to reconcile accounts.
+                </p>
+                <p>
+                  ● Improved cash management and conducted root cause analysis
+                  to identify team errors.
+                </p>
+                <p>
+                  ● Resolved technical issues related to broadband connectivity,
+                  speed, and performance. Monitored network infrastructure and
+                  identified potential issues to preemptively address service
+                  disruptions.
+                </p>
+                <p>
+                  ● Specialized in training new team members, led process
                   improvements.
                 </p>
                 <p>
                   ● Provided timely and effective customer support via phone,
-                  email writing, live chat, and tickets
+                  email, live chat, and tickets.
                 </p>
               </div>
               <div class="flex-shrink-0">
@@ -281,8 +262,7 @@ const Home = () => {
             <p>
               Passionate about business analysis and process optimization, I
               excel in enhancing business processes and stakeholder
-              communication, as demonstrated in my role at Samyaksanklp Pvt.
-              Ltd. My expertise in gathering and documenting comprehensive
+              communication. My expertise in gathering and documenting comprehensive
               business requirements, using tools like Microsoft Word, Excel, and
               PowerBI, drives my ability to deliver effective solutions.
             </p>
@@ -295,7 +275,7 @@ const Home = () => {
             </p>
           </div>
         </section>
-        
+
         <hr class="m-0" />
 
         <section class="resume-section" id="awards">
