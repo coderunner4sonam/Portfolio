@@ -15,9 +15,43 @@ const Experience = () => {
 
         <hr class="m-0" />
 
+       
+
         <section class="resume-section" id="experience">
           <div class="resume-section-content">
             <h2 class="mb-5">Experience</h2>
+
+            <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div class="flex-grow-1">
+                <h3 class="mb-0"> Business Analyst Internship</h3>
+                <div class="subheading mb-3"> Grras Solution Pvt. Ltd</div>
+
+                <p>
+                ● Conducted business analysis and process improvement to enhance business processes.
+                </p>
+                <p>
+                ● Gathered and documented business requirements (BRD, SRS, FRD).
+                
+                </p>
+                <p>
+                ● Analyzed requirements, proposed solutions, communicated with
+                  stakeholders.
+                </p>
+                <p>
+                ● Utilized business process modeling tools: Microsoft Word, MS Excel, PowerBI
+                </p>
+                <p>
+                ● Involved in UAT, Support during the implementation in production, providing User manual.
+                </p>
+                <p>
+                ● Worked with internal teams to ensure accurate and timely delivery of solutions.
+                </p>
+              </div>
+              <div class="flex-shrink-0">
+                <span class="text-primary">Jan 2023 - Apr 2023</span>
+              </div>
+            </div>
+
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h3 class="mb-0"> Finance Analyst</h3>
@@ -63,6 +97,7 @@ const Experience = () => {
                 <span class="text-primary">May 2018 - March 2022</span>
               </div>
             </div>
+
             <h3 class="mb-0"> projects</h3>
             <p>
               <div class="subheading mb-3">
