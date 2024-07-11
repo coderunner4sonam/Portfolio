@@ -61,66 +61,59 @@ const Home = () => {
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h3 class="mb-0"> Business Analyst Internship</h3>
-                <div class="subheading mb-3"> Grras Solution Pvt. Ltd</div>
+                <div class="subheading mb-3"> Grras Solution Pvt. Ltd (Nagpur)</div>
 
                 <p>
-                  ● Conducted business analysis and process improvement to
-                  enhance business processes.
+                  ● Conducted business analysis and process improvement initiatives to optimize operational workflows and enhance overall business efficiency.
                 </p>
                 <p>
-                  ● Gathered and documented business requirements (BRD, SRS,
-                  FRD).
+                  ● Gathered and documented comprehensive business requirements (BRD, SRS, FRD) to align project goals with stakeholder expectations and ensure clarity throughout.
                 </p>
                 <p>
-                  ● Analyzed requirements, proposed solutions, communicated with
-                  stakeholders.
+                  ● Analyzed gathered requirements, formulated actionable solutions, and maintained proactive communication with stakeholders to drive project success.
                 </p>
                 <p>
-                  ● Utilized business process modeling tools: Microsoft Word, MS
-                  Excel, PowerBI
+                  ● Utilized business process modeling tools such as Microsoft Word, Excel, PowerBI, and JIRA to streamline processes and improve organizational efficiency.
                 </p>
                 <p>
-                  ● Involved in UAT, Support during the implementation in
-                  production, providing User manual.
+                  ● Played a key role in User Acceptance Testing (UAT), provided essential support during production implementation, and developed user manuals to facilitate seamless user adoption.
                 </p>
                 <p>
-                  ● Worked with internal teams to ensure accurate and timely
-                  delivery of solutions.
+                  ● Collaborated cross-functionally with internal teams to ensure the accurate interpretation of requirements and the timely delivery of effective solutions.
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">Jan 2023 - Apr 2023</span>
+                <span class="text-primary">January 2023 - June 2023</span>
               </div>
             </div>
 
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0"> Finance Analyst</h3>
+                <h3 class="mb-0"> Accountant and Customer Service Executive</h3>
                 <div class="subheading mb-3">Infosys Limited Pune</div>
 
                 <p>
-                  ● Participated in client meetings at British Telecom for
-                  requirement gathering and updates.
+                  ● In Loyad registered, upon receiving the payment statement
+                  from the bank, it needs to be uploaded to the BYD application
+                  for financial analysis. While some payments auto-allocate,
+                  others require manual intervention, necessitating correct
+                  remittance details from the account receivables team to
+                  resolve customer queries
                 </p>
                 <p>
-                  ● Utilized Excel for financial data analysis, using VLOOKUP,
-                  pivot tables, and charts.
+                  ● Daily Reporting: At the end of each day, an Excel report
+                  must be generated and sent, utilizing Excel for financial
+                  analysis with VLOOKUP, pivot tables, and charts to ensure
+                  accurate application of remittance to the correct customer
+                  accounts.
                 </p>
-                <p>
-                  ● Analyzed requirements, proposed solutions, communicated with
-                  stakeholders.
-                </p>
-                <p>
-                  ● Downloaded and uploaded bank statements for financial
-                  analysis. Ensured accuracy in recording transactions. Analyzed
-                  and applied unidentified cash to reconcile accounts.
-                </p>
+                
                 <p>
                   ● Improved cash management and conducted root cause analysis
                   to identify team errors.
                 </p>
                 <p>
-                  ● Resolved technical issues related to broadband connectivity,
+                  ● In British Telecom, Resolved technical issues related to broadband connectivity,
                   speed, and performance. Monitored network infrastructure and
                   identified potential issues to preemptively address service
                   disruptions.
@@ -155,26 +148,21 @@ const Home = () => {
               dashboard to identify growth opportunities".
               <p>Features:-</p>
               <p>
-                ● Analyzed Vrinda Store’s 2022 sales, and orders to detect peak
-                periods and purchasing patterns.
+                ● Analyzed Vrinda Store’s 2022 sales and orders to identify peak periods and purchasing patterns, providing insights for strategic planning and inventory management.
               </p>
               <p>
-                ● Created an interactive dashboard for real-time data
-                visualization.
+                ● Created an interactive dashboard to visualize real-time data, enhancing decision-making processes and enabling stakeholders to monitor performance metrics effectively.
               </p>
               <p>
-                ● Identified opportunities for revenue growth, operational
-                improvements and provide conclusion.
+                ● Identified opportunities for revenue growth and operational improvements based on data analysis, delivering actionable recommendations to optimize business outcomes.
               </p>
               <p>
-                {" "}
-                Tech Stack: Excel, Used Formulas, Created Automated dashboard,
-                VLOOKUP, Pie-Charts
+              Tech Stack: Excel, Formulas for data analysis, Automated dashboard creation, VLOOKUP for data retrieval, and Pie-Charts for visual representation.
               </p>
             </p>
             <p>
               <div class="subheading mb-3">
-                2) Madhav E-commerce Power BI Report Power Bi Project Link{" "}
+                2) Madhav E-commerce Power BI Report Power Bi Project Link
               </div>
               <p>
                 <a
@@ -188,16 +176,13 @@ const Home = () => {
               sales analysis with customized visualizations.”
               <p>Features:-</p>
               <p>
-                ● Developed interactive dashboard for online sales data
-                analysis.
+                ● Developed an interactive dashboard to analyze online sales data, facilitating insights into sales trends and performance metrics.
               </p>
               <p>
-                ● Established connections, joined tables, performed calculations
-                and enabled user parameters.
+                ● Established data connections, joined tables, performed calculations, and enabled user-defined parameters for dynamic data exploration.
               </p>
               <p>
-                ● Created customized visualizations: bar, pie, donut, clustered
-                bar, scatter, line, area, map, slicers.
+                ● Created customized visualizations including bar, pie, donut, clustered bar, scatter, line, area, map, and slicers to visually represent insights.
               </p>
               <p> Tech Stack: Power BI</p>
             </p>
