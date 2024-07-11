@@ -242,14 +242,14 @@ const Home = () => {
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
-                Languages: HTML, CSS, Javascript, Python, SQL
+                Languages: HTML, CSS, Javascript, Python
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-check"></i>
                 </span>
                 Tools: Power BI, Advanced Excel, PowerPoint, SharePoint, Data
-                Modelling, MySQL
+                Modelling, Scrum Master and JIRA 
               </li>
               <li>
                 <span class="fa-li">
